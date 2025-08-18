@@ -1,6 +1,7 @@
+#include<string>
 class Solution {
 public:
-    int romanToInt(string s) {
+    int romanToInt(String s) {
        
         int toplam=0;
      
